@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/stefanyisabelledev/shortlinkgenerator/issues"
   },
-  "homepage": "https://github.com/stefanyisabelledev/shortlinkgenerator#readme"
+  "homepage": "https://github.com/stefanyisabelledev/shortlinkgenerator#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "crc-32": "^1.2.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.7"
+  }
 }
